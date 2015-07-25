@@ -2,18 +2,19 @@
 
 ## Problems with the original color scheme
 
-- Method and accessor short hands in class declarations / object literals are not highlighted properly.
+- Module keywords such as `import` and `export` are not highlighted.
+- Method and accessor short hands in class declarations / object literals are not highlighted.
 - All variables are in bright red, which is too noisy and causes visual fatigue.
 
 ## Screenshots
 
 #### Before
 
-![screen shot 2015-07-23 at 8 27 09 am](https://cloud.githubusercontent.com/assets/499550/8850319/143f6790-3115-11e5-8e00-810735926d79.png)
+![before](https://cloud.githubusercontent.com/assets/499550/8887582/75279fae-3256-11e5-9d68-30547955f67e.png)
 
 #### After
 
-![screen shot 2015-07-23 at 8 27 23 am](https://cloud.githubusercontent.com/assets/499550/8850321/157b5e0c-3115-11e5-84f7-1172471b2380.png)
+![after](https://cloud.githubusercontent.com/assets/499550/8887581/7456c65e-3256-11e5-858b-696724d1b3ac.png)
 
 ## Installation
 

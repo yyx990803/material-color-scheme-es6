@@ -832,7 +832,19 @@ source.sass keyword.other.unit</string>
         <string>#ff6380</string>
       </dict>
     </dict>
-    <!-- highlight ES6 methods/accessors -->
+    <!-- ES6 module keywords -->
+    <dict>
+      <key>name</key>
+      <string>keyword.operator.module.js</string>
+      <key>scope</key>
+      <string>keyword.operator.module.js</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
+        <string>#c792eaff</string>
+      </dict>
+    </dict>
+    <!-- ES6 methods/accessors -->
     <dict>
       <key>name</key>
       <string>entity.name.method.js</string>
