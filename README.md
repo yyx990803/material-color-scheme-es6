@@ -10,11 +10,11 @@
 
 #### Before
 
-![before](https://cloud.githubusercontent.com/assets/499550/8887582/75279fae-3256-11e5-9d68-30547955f67e.png)
+<img width="580" alt="screen shot 2015-07-24 at 10 50 45 pm" src="https://cloud.githubusercontent.com/assets/499550/8887582/75279fae-3256-11e5-9d68-30547955f67e.png">
 
 #### After
 
-![after](https://cloud.githubusercontent.com/assets/499550/8887581/7456c65e-3256-11e5-858b-696724d1b3ac.png)
+<img width="580" alt="screen shot 2015-07-24 at 10 50 36 pm" src="https://cloud.githubusercontent.com/assets/499550/8887581/7456c65e-3256-11e5-858b-696724d1b3ac.png">
 
 ## Installation
 
