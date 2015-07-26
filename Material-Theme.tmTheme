@@ -820,12 +820,12 @@ source.sass keyword.other.unit</string>
         <string>#F77669</string>
       </dict>
     </dict>
-    <!-- highlight JavaScript this -->
+    <!-- JavaScript special variables -->
     <dict>
       <key>name</key>
       <string>This</string>
       <key>scope</key>
-      <string>variable.language.this.js</string>
+      <string>variable.language.this.js, variable.language.arguments.js, variable.language.super.js, variable.language.proto.js, variable.language.constructor.js, variable.language.prototype.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
