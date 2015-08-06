@@ -74,7 +74,7 @@
         <key>foreground</key>
         <string>#CDD3DE</string> <!-- text colour -->
       </dict>
-    </dict>   
+    </dict>
     <dict>
       <key>name</key>
       <string>Punctuation</string>
@@ -105,7 +105,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#d9f5ddff</string>
+        <string>#80CBC4</string>
       </dict>
     </dict>
     <dict>
@@ -823,7 +823,7 @@ source.sass keyword.other.unit</string>
     <!-- JavaScript special variables -->
     <dict>
       <key>name</key>
-      <string>This</string>
+      <string>variable.language.js</string>
       <key>scope</key>
       <string>variable.language.this.js, variable.language.arguments.js, variable.language.super.js, variable.language.proto.js, variable.language.constructor.js, variable.language.prototype.js</string>
       <key>settings</key>
@@ -835,9 +835,9 @@ source.sass keyword.other.unit</string>
     <!-- ES6 module keywords -->
     <dict>
       <key>name</key>
-      <string>keyword.operator.module.js</string>
+      <string>keyword.operator.js</string>
       <key>scope</key>
-      <string>keyword.operator.module.js</string>
+      <string>keyword.operator.module.js, keyword.operator.new.js</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
