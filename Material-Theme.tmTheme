@@ -135,7 +135,7 @@
       <string>Functions</string>
       <key>scope</key>
       <string>entity.name.function, meta.require, support.function.any-method,
-meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
+meta.function-call, support.function, keyword.other.special-method, meta.block-level, variable.function</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
